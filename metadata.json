@@ -1,0 +1,6 @@
+{
+  "name": "สูงวัยอุ่นใจ (Senior Care Connect)",
+  "description": "แอปพลิเคชันสำหรับเชื่อมโยงผู้สูงอายุและอาสาสมัครในชุมชน เพื่อให้ผู้สูงอายุสามารถขอความช่วยเหลือด้านสุขภาพและเหตุฉุกเฉินได้อย่างรวดเร็ว พร้อมติดตามข้อมูลสุขภาพเบื้องต้น",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
